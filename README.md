@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akekowsik
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning bussiness management
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing my btech degree at IIT BHU and bsc degree at IITM
+- 💞️ I’m looking to collaborate for enthusiastic projects
 - 📫 How to reach me 9346720588
 
 <!---
